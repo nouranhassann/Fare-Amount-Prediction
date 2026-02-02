@@ -46,3 +46,9 @@ The analysis follows a **complete regression modeling pipeline**:
 - Built a predictive model with high accuracy for fare estimation.  
 - Identified trip distance, passenger count, and time of day as major fare drivers.  
 - Delivered actionable insights for optimizing pricing strategies.
+Contributors
+- Nouran Hassan
+- [Bassmala Mahmoud](https://github.com/bassmalamahmoud)
+- [Mohamed (mu20042006-cyber)](https://github.com/mu20042006-cyber)
+- [Naiera Kassem](https://github.com/naierakassem614-tech)
+- Nada Eissa
