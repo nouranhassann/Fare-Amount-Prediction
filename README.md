@@ -47,7 +47,7 @@ The analysis follows a **complete regression modeling pipeline**:
 - Identified trip distance, passenger count, and time of day as major fare drivers.  
 - Delivered actionable insights for optimizing pricing strategies.
 Contributors
-- Nouran Hassan
+- [Nouran Hassan](https://github.com/nouranhassann)
 - [Bassmala Mahmoud](https://github.com/bassmalamahmoud)
 - [Menna Ahmed](https://github.com/mu20042006-cyber)
 - [Naiera Kassem](https://github.com/naierakassem614-tech)
